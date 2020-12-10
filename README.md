@@ -5,6 +5,11 @@
 
 [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1S8f4hF8THBFDhuNztAQ6vRFWqaq-IAsM?usp=sharing)
 
+## Foreword
+
+Many thanks to Dr. Fadi Fayez Thabtah of the Department of Digital Technology at New Zealand's Manukau Institute of Technology for their work and for their guidance on the data. It was a real pleasure working on this and glad to be of service to the medical community. 
+
+
 ## Background
 
 Autistic Spectrum Disorder (ASD) is a neurodevelopment  condition associated with significant healthcare costs, and early diagnosis can significantly reduce these. Unfortunately, waiting times for an ASD diagnosis are lengthy and procedures are not cost effective. The economic impact of autism and the increase in the number of ASD cases across the world reveals an urgent need for the development of easily implemented and effective screening methods.
@@ -25,7 +30,7 @@ Therefore, a time-efficient and accessible ASD screening is imminent to help hea
 
 ## Approach
 
-In this example, I use the raw data provided by Fadi Fayez Thabtah of the Department of Digital Technology at New Zealand's Manukau Institute of Technology. I preprocess the data in the notebook to transform categorical feature vectors into numerical ones, and drop redundant features that provide no additional predictability. 
+In this network, I used the raw data provided by Dr. Fadi Fayez Thabtah's research with New Zealand's Manukau Institute of Technology with some minor changes for comma-delimited formatting. I preprocess the data in the notebook to transform categorical feature vectors into numerical ones, and drop redundant features that provide no additional predictability for the model. 
 
 At the end of the notebook, I instantiate a classification report with F1-Scores and accuracy ratings. 
 
