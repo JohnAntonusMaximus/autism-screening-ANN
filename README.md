@@ -7,7 +7,7 @@
 
 ## Foreword
 
-Many thanks to Dr. Fadi Fayez Thabtah of the Department of Digital Technology at New Zealand's Manukau Institute of Technology for their work and for their guidance on the data. It was a real pleasure working on this and glad to be of service to the medical community. 
+Many thanks to Dr. Fadi Fayez Thabtah of the Department of Digital Technology at New Zealand's Manukau Institute of Technology for his work and for his guidance on the data. It was a real pleasure working on this and glad to be of service to the medical community. 
 
 
 ## Background
